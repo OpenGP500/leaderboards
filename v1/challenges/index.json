@@ -1,0 +1,1 @@
+{"format":"opengp500/leaderboard-index","version":1,"kind":"challenges","generated":"2026-11-20T00:07:38Z","challenges":[{"id":"ch.test.w01","title":"Test week 1","starts":"2026-11-13T00:00:00Z","ends":"2026-11-20T00:00:00Z","final":true,"participants":1,"winner":{"alias":"Jewoll","time_s":107.4529037475586},"table":"/v1/challenges/ch.test.w01/table.json"}]}

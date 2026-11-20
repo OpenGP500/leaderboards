@@ -1,0 +1,51 @@
+{
+ "format": "gp500remake/challenge",
+ "format_version": "1.0",
+ "id": "ch.test.w01",
+ "title": "Test week 1",
+ "starts": "2026-11-13T00:00:00Z",
+ "ends": "2026-11-20T00:00:00Z",
+ "session": "time_trial",
+ "mode": "classic",
+ "sim": "gp500/sim/1",
+ "track": {
+  "id": "c03",
+  "hash": "b2cbf98d0f155019109d0527fbc877413b2e5bd057c3818f029ec19ebc1035f2",
+  "algorithm": "gp500/track-sim/1"
+ },
+ "bike": {
+  "id": "b04",
+  "hash": "cbac4b7e411d93529acfab1a1ec43782e6c951d88c60ed29342727614f04e603",
+  "algorithm": "gp500/phys/1"
+ },
+ "season": null,
+ "rules": {
+  "disable_quickpits": false,
+  "ignore_black_flags": false,
+  "ignore_cut_corners": false,
+  "only_manualgears": false,
+  "only_onbikeview": false,
+  "only_simulation": false,
+  "retire_ai": true,
+  "serious_cut_corners": false
+ },
+ "aids": {
+  "physics_level": "free",
+  "automatic_braking": false,
+  "automatic_gearbox": "free",
+  "rider_leaning": "free",
+  "brake_mode": "free"
+ },
+ "handling": "standard",
+ "refreshes_allowed": [],
+ "setup": "free",
+ "weather": "sunny",
+ "mods": [],
+ "image": {
+  "sha256": "fe2a72fb1ba5c624c66b7be909ebd0e87e26a87336a2bbe4d71ce83524207339",
+  "type": "image/jpeg",
+  "w": 1024,
+  "h": 512,
+  "bytes": 303968
+ }
+}
